@@ -6,4 +6,6 @@ public class xd {
     public String getXd() {
         return xd;
     }
+
+    public String xdd;
 }
